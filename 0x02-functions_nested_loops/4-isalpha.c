@@ -2,7 +2,8 @@
 /**
  * _isalpha - Check if code for a character that us upper or lowercase
  * @c: The character to be input
- * Return: 1 if the character is a letter, lowercase or uppercase or 0 in otherwise.
+ * Return: 1 if the character is a letter, 
+ * lowercase or uppercase or 0 in otherwise.
  */
 int _isalpha(int c)
 {
