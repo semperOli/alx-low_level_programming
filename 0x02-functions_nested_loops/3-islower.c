@@ -11,7 +11,7 @@ int _islower(int c)
 char lca;
 int a = 0;
 
-for (lca = 'a'; lcaa <= 'z'; lca++)
+for (lca = 'a'; lca <= 'z'; lca++)
 {
 if (lca == c)
 a = 1;
