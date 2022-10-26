@@ -1,4 +1,4 @@
-#include "mainn.h"
+#include "main.h"
 /**
  * rev_string - this function will print characters in reverse.
  * @s: the input character
